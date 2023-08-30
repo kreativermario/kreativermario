@@ -21,7 +21,7 @@
 
 ---
 
-### 👨‍💻🐧 About me:
+## 👨‍💻🐧 About me:
 My name is Mário and I'm from Lisbon, Portugal 🇵🇹. As you can see, I like penguins! That's my online nickname, I go by Penguin PhD and people usually ask what kind of doctorate I am 😅.
 - 🔭 I'm currently working on [SkyWizz](https://github.com/kreativermario/SkyWizz) and [StockTracker](https://github.com/kreativermario/django_web) during my freetime.
 - 👨‍🎓 I'm currently studying Computer Science and Business Management at ISCTE-IUL in Lisbon, Portugal.
@@ -30,7 +30,7 @@ My name is Mário and I'm from Lisbon, Portugal 🇵🇹. As you can see, I like
 - 📫 Reach me via socials or email.
   
 ---
-### 📖 Languages & Skills
+## 📖 Languages & Skills
 <div id="skills">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -45,7 +45,7 @@ My name is Mário and I'm from Lisbon, Portugal 🇵🇹. As you can see, I like
 </div>
 
 ---
-### 🛠️ Software and Tools used
+## 🛠️ Software and Tools used
 <div id="tools">
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
