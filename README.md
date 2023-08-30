@@ -60,7 +60,7 @@ My name is Mário and I'm from Lisbon, Portugal 🇵🇹. As you can see, I like
 
 ---
 
-### 📈 Stats
+## 📈 Stats
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kreativermario&mode=weekly)](https://git.io/streak-stats)
 
