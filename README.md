@@ -8,7 +8,7 @@
 </div>
 <div id="stats" align="center">
   <a href="https://komarev.com/ghpvc/?username=kreativermario">
-    <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt="Profile Views"/>
+    <img src="https://komarev.com/ghpvc/?username=kreativermario&style=flat-square&color=blue" alt="Profile Views"/>
   </a>
 </div>
 <div id="about-me" align="center">
