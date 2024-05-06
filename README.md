@@ -31,18 +31,18 @@ My name is Mário and I'm from Lisbon, Portugal 🇵🇹. As you can see, I like
   
 ---
 
-## Homelab:
+## 🔬 Homelab:
 
 I currently have a small homelab for personal projects and to learn! Of course I've locked myself out from the servers a couple times because of Fail2Ban or other firewalls haha! Always looking out for great used enterprise equipment to create my dream homelab with a full rack, including switches, routers, firewalls, servers and UPS. My next goal is getting a NUC to run OpenWRT or OPNSense.
 
-### Devices: 
-- 💻 Raspberry Pi 4B+ 4GB running Raspbian OS
+### 💻 Devices: 
+-  Raspberry Pi 4B+ 4GB running Raspbian OS
     - [Nginx Proxy Manager](https://nginxproxymanager.com/)
     - [Wireguard VPN](https://www.wireguard.com/)
     - [Docker](https://www.docker.com/)
     - [Portainer](https://www.portainer.io/)
     - Others
-- 💻 i5-12400, 32GB DDR4 @ 3200 MHz, 1TB NVMe, (3 data drives) 7TB HDD + 1x 4TB Parity Drive running Proxmox
+- i5-12400, 32GB DDR4 @ 3200 MHz, 1TB NVMe, (3 data drives) 7TB HDD + 1x 4TB Parity Drive running Proxmox
     - Debian VM
       - [Docker](https://www.docker.com/)
       - [Portainer](https://www.portainer.io/)
