@@ -25,9 +25,33 @@
 My name is Mário and I'm from Lisbon, Portugal 🇵🇹. As you can see, I like penguins! That's my online nickname, I go by Penguin PhD and people usually ask what kind of doctorate I am 😅.
 - 🔭 I'm currently working on [SkyWizz](https://github.com/kreativermario/SkyWizz) and [StockTracker](https://github.com/kreativermario/django_web) during my freetime.
 - 👨‍🎓 I'm currently studying Computer Science and Business Management at ISCTE-IUL in Lisbon, Portugal.
-- 🤔 I’m looking for help with [StockTracker](https://github.com/kreativermario/django_web) with Docker and deploying it on a web hosting service.
+- 🖥️ In my freetime I like to manage my homelab doing personal projects such as selfhosting programs, like my own media server with Plex and other tools like Adguard, Reverse Nginx Proxy, etc. 
 - 🎮 I like to take photos during my freetime [Flickr](https://www.flickr.com/photos/kreativermario/), play videogames and bing TV shows.
 - 📫 Reach me via socials or email.
+  
+---
+
+## Homelab:
+
+I currently have a small homelab for personal projects and to learn! Of course I've locked myself out from the servers a couple times because of Fail2Ban or other firewalls haha! Always looking out for great used enterprise equipment to create my dream homelab with a full rack, including switches, routers, firewalls, servers and UPS. My next goal is getting a NUC to run OpenWRT or OPNSense.
+
+### Devices: 
+- 💻 Raspberry Pi 4B+ 4GB running Raspbian OS
+    - [Nginx Proxy Manager](https://nginxproxymanager.com/)
+    - [Wireguard VPN](https://www.wireguard.com/)
+    - [Docker](https://www.docker.com/)
+    - [Portainer](https://www.portainer.io/)
+    - Others
+- 💻 i5-12400, 32GB DDR4 @ 3200 MHz, 1TB NVMe, (3 data drives) 7TB HDD + 1x 4TB Parity Drive running Proxmox
+    - Debian VM
+      - [Docker](https://www.docker.com/)
+      - [Portainer](https://www.portainer.io/)
+      - [Adguard](https://adguard.com/en/welcome.html)
+      - [Plex](https://www.plex.tv/)
+      - [SkyWizz](https://github.com/kreativermario/SkyWizz)
+      - Others
+    - OpenMediaVault as a NAS with Snapraid + Mergerfs
+  
   
 ---
 ## 📖 Languages & Skills
