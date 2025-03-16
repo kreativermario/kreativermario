@@ -23,9 +23,9 @@
 
 ## 👨‍💻🐧 About me:
 My name is Mário and I'm from Lisbon, Portugal 🇵🇹. As you can see, I like penguins! That's my online nickname, I go by Penguin PhD and people usually ask what kind of doctorate I am 😅.
-- 🔭 I'm currently working on [SkyWizz](https://github.com/kreativermario/SkyWizz) and [StockTracker](https://github.com/kreativermario/django_web) during my freetime.
+- 🔭 I'm currently working on [SkyWizz](https://github.com/kreativermario/SkyWizz) during my freetime.
 - 👨‍🎓 I'm currently studying Computer Science and Business Management at ISCTE-IUL in Lisbon, Portugal.
-- 🖥️ In my freetime I like to manage my homelab doing personal projects such as selfhosting programs, like my own media server with Plex and other tools like Adguard, Reverse Nginx Proxy, etc. 
+- 🖥️ In my freetime I like to manage my proxmox homelab doing personal projects such as selfhosting programs, like my own media server with Plex and other tools like Adguard, BIND DNS, Technitium, OPNSense, Nginx, Traefik, HAProxy, Reverse Nginx Proxy, OKD Kubernetes, RKE2 Rancher, etc. 
 - 🎮 I like to take photos during my freetime [Flickr](https://www.flickr.com/photos/kreativermario/), play videogames and bing TV shows.
 - 📫 Reach me via socials or email.
   
@@ -33,7 +33,7 @@ My name is Mário and I'm from Lisbon, Portugal 🇵🇹. As you can see, I like
 
 ## 🔬 Homelab:
 
-I currently have a small homelab for personal projects and to learn! Of course I've locked myself out from the servers a couple times because of Fail2Ban or other firewalls haha! Always looking out for great used enterprise equipment to create my dream homelab with a full rack, including switches, routers, firewalls, servers and UPS. My next goal is getting a NUC to run OpenWRT or OPNSense.
+I currently have a small homelab for personal projects and to learn! Always looking out for used enterprise equipment (hmu if you are selling anything!) to create my dream homelab with a full rack, including switches, routers, firewalls, servers and UPS.
 
 ### 💻 Devices: 
 -  Raspberry Pi 4B 4GB running Raspbian OS
@@ -42,7 +42,7 @@ I currently have a small homelab for personal projects and to learn! Of course I
     - [Docker](https://www.docker.com/)
     - [Portainer](https://www.portainer.io/)
     - Others
-- i5-12400, 32GB DDR4 @ 3200 MHz, 1TB NVMe, (3 data drives) 7TB HDD + 1x 4TB Parity Drive running Proxmox
+- i7-14700, 64GB DDR5 @ 6000 MHz, 1TB NVMe, (3 data drives) 7TB HDD + 1x 4TB Parity Drive running Proxmox
     - Debian VM
       - [Docker](https://www.docker.com/)
       - [Portainer](https://www.portainer.io/)
